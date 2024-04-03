@@ -4,7 +4,8 @@
   "description": "A simple blog website",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build":"npm i"
   },
   "repository": {
     "type": "git",
